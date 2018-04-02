@@ -58,6 +58,7 @@ weixin-xiaochengxu666-info 第一版 是由[OpenDigg](http://www.opendigg.com/)�
 - [wepy](https://github.com/wepyjs/wepy) ★1325 - 小程序组件化开发框架 
 - [Labrador](https://github.com/maichong/labrador) ★785 - 微信小程序模块化开发框架 
 - [wxapp-devFrame](https://github.com/hss01248/wxapp-devFrame) ★49 - 小程序基本的开发框架 
+- [tinajs](https://github.com/tinajs/tina) ★128 - 一款轻巧的渐进式微信小程序框架
 
 ## 实用库 
 
